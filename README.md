@@ -82,7 +82,8 @@ Incorporate external spatial/contextual data from OSM, weather, or soil maps.
 Explore unsupervised clustering to refine noisy training labels.
 
 📝 According to Competition the Scores of the following versions are as follows 
-Version 1:-0.56000
-Version 2:-0.65666
-Version 3:-0.62666
-Version 4:-0.56000
+          private     public 
+Version 1: 0.56000    0.78349
+Version 2: 0.65666    0.85854
+Version 3: 0.62666    0.86090
+Version 4: 0.56000    0.91787
