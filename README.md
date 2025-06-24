@@ -86,4 +86,3 @@ Version 1:-0.56000
 Version 2:-0.65666
 Version 3:-0.62666
 Version 4:-0.56000
-So According this the Version 2 is more accurate.
